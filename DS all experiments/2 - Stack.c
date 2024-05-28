@@ -1,4 +1,3 @@
-//R Kaniikesh Raja 23AM1137
 #include <stdio.h>
 #include <stdlib.h>
 #define SIZE 5

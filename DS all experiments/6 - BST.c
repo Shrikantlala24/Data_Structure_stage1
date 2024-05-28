@@ -1,5 +1,4 @@
-\\ EXP 6.
-
+#include <stdio.h>
 #include <stdlib.h>
 
 // Define the structure for a node in the BST
